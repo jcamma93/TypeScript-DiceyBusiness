@@ -1,0 +1,20 @@
+body {
+    margin-top: 3em;
+}
+
+#button-container {
+    width: 60em;
+}
+
+#dice-container {
+    flex-wrap: wrap;
+}
+
+.die {
+    cursor: pointer;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    font-size: 200px;
+    line-height: .7;
+}

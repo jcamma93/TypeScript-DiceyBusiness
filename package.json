@@ -1,0 +1,15 @@
+{
+  "name": "dicey-business",
+  "version": "1.0.0",
+  "description": "Converting JS to TS",
+  "main": "DiceyBusiness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.16",
+    "jquery": "^3.7.0"
+  }
+}
